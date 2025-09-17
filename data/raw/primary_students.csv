@@ -1,0 +1,749 @@
+Year,Sex,State,Number of students at primary level
+2014,Male,Malaysia,1392484
+2014,Male,Johor,171108
+2014,Male,Kedah,99715
+2014,Male,Kelantan,91203
+2014,Male,Melaka,41649
+2014,Male,Negeri Sembilan,53018
+2014,Male,Pahang,75742
+2014,Male,Perak,108053
+2014,Male,Perlis,11926
+2014,Male,Pulau Pinang,69493
+2014,Male,Sabah ,136932
+2014,Male,Sarawak,129897
+2014,Male,Selangor,264661
+2014,Male,Terengganu,63071
+2014,Male,W.P. Kuala Lumpur,66261
+2014,Male,W.P. Labuan,4192
+2014,Male,W.P. Putrajaya,5563
+2014,Female,Malaysia,1316856
+2014,Female,Johor,161515
+2014,Female,Kedah,95697
+2014,Female,Kelantan,87469
+2014,Female,Melaka,39517
+2014,Female,Negeri Sembilan,50236
+2014,Female,Pahang,71473
+2014,Female,Perak,102866
+2014,Female,Perlis,11281
+2014,Female,Pulau Pinang,65676
+2014,Female,Sabah ,129045
+2014,Female,Sarawak,120824
+2014,Female,Selangor,248655
+2014,Female,Terengganu,60006
+2014,Female,W.P. Kuala Lumpur,63338
+2014,Female,W.P. Labuan,3923
+2014,Female,W.P. Putrajaya,5335
+2015,Male,Malaysia,1378766
+2015,Male,Johor,169165
+2015,Male,Kedah,97953
+2015,Male,Kelantan,89722
+2015,Male,Melaka,41503
+2015,Male,Negeri Sembilan,52408
+2015,Male,Pahang,74304
+2015,Male,Perak,105402
+2015,Male,Perlis,11825
+2015,Male,Pulau Pinang,68212
+2015,Male,Sabah ,137936
+2015,Male,Sarawak,128490
+2015,Male,Selangor,262779
+2015,Male,Terengganu,62941
+2015,Male,W.P. Kuala Lumpur,65677
+2015,Male,W.P. Labuan,4279
+2015,Male,W.P. Putrajaya,6170
+2015,Female,Malaysia,1305226
+2015,Female,Johor,159614
+2015,Female,Kedah,94161
+2015,Female,Kelantan,85898
+2015,Female,Melaka,39415
+2015,Female,Negeri Sembilan,49889
+2015,Female,Pahang,70065
+2015,Female,Perak,100190
+2015,Female,Perlis,11178
+2015,Female,Pulau Pinang,64736
+2015,Female,Sabah ,130039
+2015,Female,Sarawak,119732
+2015,Female,Selangor,247710
+2015,Female,Terengganu,59717
+2015,Female,W.P. Kuala Lumpur,62926
+2015,Female,W.P. Labuan,4030
+2015,Female,W.P. Putrajaya,5926
+2016,Male,Malaysia,1377153
+2016,Male,Johor,168699
+2016,Male,Kedah,97237
+2016,Male,Kelantan,88403
+2016,Male,Melaka,41470
+2016,Male,Negeri Sembilan,52180
+2016,Male,Pahang,74535
+2016,Male,Perak,104205
+2016,Male,Perlis,11835
+2016,Male,Pulau Pinang,67908
+2016,Male,Sabah ,139256
+2016,Male,Sarawak,127933
+2016,Male,Selangor,263636
+2016,Male,Terengganu,63313
+2016,Male,W.P. Kuala Lumpur,65209
+2016,Male,W.P. Labuan,4418
+2016,Male,W.P. Putrajaya,6916
+2016,Female,Malaysia,1306600
+2016,Female,Johor,159216
+2016,Female,Kedah,93703
+2016,Female,Kelantan,84666
+2016,Female,Melaka,39616
+2016,Female,Negeri Sembilan,49526
+2016,Female,Pahang,70451
+2016,Female,Perak,99478
+2016,Female,Perlis,11115
+2016,Female,Pulau Pinang,64390
+2016,Female,Sabah ,131418
+2016,Female,Sarawak,119656
+2016,Female,Selangor,249142
+2016,Female,Terengganu,60549
+2016,Female,W.P. Kuala Lumpur,62855
+2016,Female,W.P. Labuan,4204
+2016,Female,W.P. Putrajaya,6615
+2017,Male,Malaysia,1373928
+2017,Male,Johor,168245
+2017,Male,Kedah,97025
+2017,Male,Kelantan,87856
+2017,Male,Melaka,41571
+2017,Male,Negeri Sembilan,52117
+2017,Male,Pahang,74331
+2017,Male,Perak,102907
+2017,Male,Perlis,11884
+2017,Male,Pulau Pinang,67008
+2017,Male,Sabah ,140796
+2017,Male,Sarawak,126854
+2017,Male,Selangor,263031
+2017,Male,Terengganu,63680
+2017,Male,W.P. Kuala Lumpur,64415
+2017,Male,W.P. Labuan,4491
+2017,Male,W.P. Putrajaya,7717
+2017,Female,Malaysia,1304701
+2017,Female,Johor,158464
+2017,Female,Kedah,93003
+2017,Female,Kelantan,83983
+2017,Female,Melaka,39515
+2017,Female,Negeri Sembilan,49674
+2017,Female,Pahang,70786
+2017,Female,Perak,98210
+2017,Female,Perlis,11181
+2017,Female,Pulau Pinang,63447
+2017,Female,Sabah ,133041
+2017,Female,Sarawak,118569
+2017,Female,Selangor,249686
+2017,Female,Terengganu,61170
+2017,Female,W.P. Kuala Lumpur,62314
+2017,Female,W.P. Labuan,4278
+2017,Female,W.P. Putrajaya,7380
+2018,Male,Malaysia,1381972
+2018,Male,Johor,168818
+2018,Male,Kedah,96708
+2018,Male,Kelantan,87444
+2018,Male,Melaka,42159
+2018,Male,Negeri Sembilan,52485
+2018,Male,Pahang,74776
+2018,Male,Perak,102982
+2018,Male,Perlis,11982
+2018,Male,Pulau Pinang,66947
+2018,Male,Sabah ,142752
+2018,Male,Sarawak,126369
+2018,Male,Selangor,265678
+2018,Male,Terengganu,64688
+2018,Male,W.P. Kuala Lumpur,64934
+2018,Male,W.P. Labuan,4631
+2018,Male,W.P. Putrajaya,8619
+2018,Female,Malaysia,1312807
+2018,Female,Johor,159275
+2018,Female,Kedah,93089
+2018,Female,Kelantan,83962
+2018,Female,Melaka,39955
+2018,Female,Negeri Sembilan,50054
+2018,Female,Pahang,70922
+2018,Female,Perak,97647
+2018,Female,Perlis,11266
+2018,Female,Pulau Pinang,63243
+2018,Female,Sabah ,134831
+2018,Female,Sarawak,118572
+2018,Female,Selangor,252710
+2018,Female,Terengganu,61777
+2018,Female,W.P. Kuala Lumpur,62699
+2018,Female,W.P. Labuan,4434
+2018,Female,W.P. Putrajaya,8371
+2019,Male,Malaysia,1399252
+2019,Male,Johor,170106
+2019,Male,Kedah,96878
+2019,Male,Kelantan,87401
+2019,Male,Melaka,42824
+2019,Male,Negeri Sembilan,53375
+2019,Male,Pahang,75044
+2019,Male,Perak,103598
+2019,Male,Perlis,12198
+2019,Male,Pulau Pinang,67406
+2019,Male,Sabah ,146301
+2019,Male,Sarawak,126465
+2019,Male,Selangor,271294
+2019,Male,Terengganu,65863
+2019,Male,W.P. Kuala Lumpur,66246
+2019,Male,W.P. Labuan,4816
+2019,Male,W.P. Putrajaya,9437
+2019,Female,Malaysia,1330007
+2019,Female,Johor,161024
+2019,Female,Kedah,93091
+2019,Female,Kelantan,84187
+2019,Female,Melaka,40810
+2019,Female,Negeri Sembilan,50954
+2019,Female,Pahang,71636
+2019,Female,Perak,98190
+2019,Female,Perlis,11452
+2019,Female,Pulau Pinang,64169
+2019,Female,Sabah ,137965
+2019,Female,Sarawak,118348
+2019,Female,Selangor,257737
+2019,Female,Terengganu,62688
+2019,Female,W.P. Kuala Lumpur,64030
+2019,Female,W.P. Labuan,4577
+2019,Female,W.P. Putrajaya,9149
+2000,Male,Malaysia,1489300
+2000,Male,Johor,176997
+2000,Male,Kedah,113203
+2000,Male,Kelantan,115613
+2000,Male,Melaka,41857
+2000,Male,Negeri Sembilan,57306
+2000,Male,Pahang,89908
+2000,Male,Perak,140760
+2000,Male,Perlis,13981
+2000,Male,Pulau Pinang,71899
+2000,Male,Sabah ,157314
+2000,Male,Sarawak,140391
+2000,Male,Selangor,212709
+2000,Male,Terengganu,77311
+2000,Male,W.P. Kuala Lumpur,80051
+2000,Male,W.P. Labuan,0
+2000,Male,W.P. Putrajaya,0
+2000,Female,Malaysia,1409748
+2000,Female,Johor,169001
+2000,Female,Kedah,107605
+2000,Female,Kelantan,110760
+2000,Female,Melaka,39562
+2000,Female,Negeri Sembilan,54014
+2000,Female,Pahang,85621
+2000,Female,Perak,134054
+2000,Female,Perlis,13523
+2000,Female,Pulau Pinang,67533
+2000,Female,Sabah ,147515
+2000,Female,Sarawak,132140
+2000,Female,Selangor,199284
+2000,Female,Terengganu,74107
+2000,Female,W.P. Kuala Lumpur,75029
+2000,Female,W.P. Labuan,0
+2000,Female,W.P. Putrajaya,0
+2001,Male,Malaysia,1492437
+2001,Male,Johor,177540
+2001,Male,Kedah,113683
+2001,Male,Kelantan,116441
+2001,Male,Melaka,42184
+2001,Male,Negeri Sembilan,57692
+2001,Male,Pahang,88726
+2001,Male,Perak,139325
+2001,Male,Perlis,13972
+2001,Male,Pulau Pinang,71666
+2001,Male,Sabah ,152001
+2001,Male,Sarawak,140640
+2001,Male,Selangor,220175
+2001,Male,Terengganu,76901
+2001,Male,W.P. Kuala Lumpur,77454
+2001,Male,W.P. Labuan,4037
+2001,Male,W.P. Putrajaya,0
+2001,Female,Malaysia,1416237
+2001,Female,Johor,170132
+2001,Female,Kedah,107934
+2001,Female,Kelantan,110748
+2001,Female,Melaka,39798
+2001,Female,Negeri Sembilan,54507
+2001,Female,Pahang,84351
+2001,Female,Perak,132585
+2001,Female,Perlis,13244
+2001,Female,Pulau Pinang,67582
+2001,Female,Sabah ,143854
+2001,Female,Sarawak,132353
+2001,Female,Selangor,207007
+2001,Female,Terengganu,73789
+2001,Female,W.P. Kuala Lumpur,74539
+2001,Female,W.P. Labuan,3814
+2001,Female,W.P. Putrajaya,0
+2002,Male,Malaysia,1519732
+2002,Male,Johor,182785
+2002,Male,Kedah,116608
+2002,Male,Kelantan,117437
+2002,Male,Melaka,43091
+2002,Male,Negeri Sembilan,57949
+2002,Male,Pahang,89288
+2002,Male,Perak,141854
+2002,Male,Perlis,14448
+2002,Male,Pulau Pinang,73586
+2002,Male,Sabah ,149791
+2002,Male,Sarawak,142986
+2002,Male,Selangor,230454
+2002,Male,Terengganu,76931
+2002,Male,W.P. Kuala Lumpur,78388
+2002,Male,W.P. Labuan,4136
+2002,Male,W.P. Putrajaya,0
+2002,Female,Malaysia,1439921
+2002,Female,Johor,174054
+2002,Female,Kedah,110719
+2002,Female,Kelantan,111175
+2002,Female,Melaka,40793
+2002,Female,Negeri Sembilan,55001
+2002,Female,Pahang,84928
+2002,Female,Perak,134735
+2002,Female,Perlis,13524
+2002,Female,Pulau Pinang,69730
+2002,Female,Sabah ,141314
+2002,Female,Sarawak,134272
+2002,Female,Selangor,216126
+2002,Female,Terengganu,73771
+2002,Female,W.P. Kuala Lumpur,75855
+2002,Female,W.P. Labuan,3924
+2002,Female,W.P. Putrajaya,0
+2003,Male,Malaysia,1572006
+2003,Male,Johor,190473
+2003,Male,Kedah,121601
+2003,Male,Kelantan,121588
+2003,Male,Melaka,45199
+2003,Male,Negeri Sembilan,59629
+2003,Male,Pahang,91916
+2003,Male,Perak,144665
+2003,Male,Perlis,14880
+2003,Male,Pulau Pinang,75809
+2003,Male,Sabah ,151710
+2003,Male,Sarawak,148126
+2003,Male,Selangor,243591
+2003,Male,Terengganu,78470
+2003,Male,W.P. Kuala Lumpur,79967
+2003,Male,W.P. Labuan,4382
+2003,Male,W.P. Putrajaya,0
+2003,Female,Malaysia,1490388
+2003,Female,Johor,180982
+2003,Female,Kedah,115801
+2003,Female,Kelantan,115367
+2003,Female,Melaka,43273
+2003,Female,Negeri Sembilan,57096
+2003,Female,Pahang,87526
+2003,Female,Perak,137492
+2003,Female,Perlis,14065
+2003,Female,Pulau Pinang,71495
+2003,Female,Sabah ,142723
+2003,Female,Sarawak,139540
+2003,Female,Selangor,228648
+2003,Female,Terengganu,75003
+2003,Female,W.P. Kuala Lumpur,77279
+2003,Female,W.P. Labuan,4098
+2003,Female,W.P. Putrajaya,0
+2004,Male,Malaysia,1603500
+2004,Male,Johor,195229
+2004,Male,Kedah,124064
+2004,Male,Kelantan,121264
+2004,Male,Melaka,46803
+2004,Male,Negeri Sembilan,60950
+2004,Male,Pahang,92663
+2004,Male,Perak,146148
+2004,Male,Perlis,15007
+2004,Male,Pulau Pinang,79183
+2004,Male,Sabah ,152133
+2004,Male,Sarawak,150262
+2004,Male,Selangor,256114
+2004,Male,Terengganu,78281
+2004,Male,W.P. Kuala Lumpur,80988
+2004,Male,W.P. Labuan,4411
+2004,Male,W.P. Putrajaya,0
+2004,Female,Malaysia,1517386
+2004,Female,Johor,185117
+2004,Female,Kedah,117938
+2004,Female,Kelantan,114809
+2004,Female,Melaka,44191
+2004,Female,Negeri Sembilan,57751
+2004,Female,Pahang,88013
+2004,Female,Perak,138347
+2004,Female,Perlis,14089
+2004,Female,Pulau Pinang,74897
+2004,Female,Sabah ,143398
+2004,Female,Sarawak,141170
+2004,Female,Selangor,240287
+2004,Female,Terengganu,75064
+2004,Female,W.P. Kuala Lumpur,78209
+2004,Female,W.P. Labuan,4106
+2004,Female,W.P. Putrajaya,0
+2005,Male,Malaysia,1612153
+2005,Male,Johor,196553
+2005,Male,Kedah,125473
+2005,Male,Kelantan,121168
+2005,Male,Melaka,47044
+2005,Male,Negeri Sembilan,61234
+2005,Male,Pahang,91998
+2005,Male,Perak,146313
+2005,Male,Perlis,14800
+2005,Male,Pulau Pinang,80569
+2005,Male,Sabah ,151616
+2005,Male,Sarawak,148724
+2005,Male,Selangor,264372
+2005,Male,Terengganu,77573
+2005,Male,W.P. Kuala Lumpur,80351
+2005,Male,W.P. Labuan,4365
+2005,Male,W.P. Putrajaya,0
+2005,Female,Malaysia,1525127
+2005,Female,Johor,185829
+2005,Female,Kedah,119049
+2005,Female,Kelantan,114399
+2005,Female,Melaka,44503
+2005,Female,Negeri Sembilan,58671
+2005,Female,Pahang,87409
+2005,Female,Perak,138385
+2005,Female,Perlis,14027
+2005,Female,Pulau Pinang,76277
+2005,Female,Sabah ,142787
+2005,Female,Sarawak,139845
+2005,Female,Selangor,248323
+2005,Female,Terengganu,74328
+2005,Female,W.P. Kuala Lumpur,77174
+2005,Female,W.P. Labuan,4121
+2005,Female,W.P. Putrajaya,0
+2006,Male,Malaysia,1612154
+2006,Male,Johor,196484
+2006,Male,Kedah,125583
+2006,Male,Kelantan,119062
+2006,Male,Melaka,47411
+2006,Male,Negeri Sembilan,61316
+2006,Male,Pahang,91542
+2006,Male,Perak,144539
+2006,Male,Perlis,14698
+2006,Male,Pulau Pinang,81269
+2006,Male,Sabah ,149172
+2006,Male,Sarawak,149871
+2006,Male,Selangor,270574
+2006,Male,Terengganu,76745
+2006,Male,W.P. Kuala Lumpur,79448
+2006,Male,W.P. Labuan,4440
+2006,Male,W.P. Putrajaya,0
+2006,Female,Malaysia,1524487
+2006,Female,Johor,185807
+2006,Female,Kedah,119368
+2006,Female,Kelantan,112684
+2006,Female,Melaka,44482
+2006,Female,Negeri Sembilan,58459
+2006,Female,Pahang,86565
+2006,Female,Perak,136469
+2006,Female,Perlis,13800
+2006,Female,Pulau Pinang,77131
+2006,Female,Sabah ,140471
+2006,Female,Sarawak,141124
+2006,Female,Selangor,254777
+2006,Female,Terengganu,73365
+2006,Female,W.P. Kuala Lumpur,75816
+2006,Female,W.P. Labuan,4169
+2006,Female,W.P. Putrajaya,0
+2007,Male,Malaysia,1628388
+2007,Male,Johor,200227
+2007,Male,Kedah,126826
+2007,Male,Kelantan,117846
+2007,Male,Melaka,47901
+2007,Male,Negeri Sembilan,61595
+2007,Male,Pahang,92211
+2007,Male,Perak,145009
+2007,Male,Perlis,14393
+2007,Male,Pulau Pinang,81984
+2007,Male,Sabah ,149686
+2007,Male,Sarawak,151773
+2007,Male,Selangor,275819
+2007,Male,Terengganu,76865
+2007,Male,W.P. Kuala Lumpur,79013
+2007,Male,W.P. Labuan,4313
+2007,Male,W.P. Putrajaya,2927
+2007,Female,Malaysia,1539387
+2007,Female,Johor,188601
+2007,Female,Kedah,120975
+2007,Female,Kelantan,111736
+2007,Female,Melaka,45082
+2007,Female,Negeri Sembilan,59146
+2007,Female,Pahang,87171
+2007,Female,Perak,137209
+2007,Female,Perlis,13724
+2007,Female,Pulau Pinang,78286
+2007,Female,Sabah ,139967
+2007,Female,Sarawak,142415
+2007,Female,Selangor,259306
+2007,Female,Terengganu,73716
+2007,Female,W.P. Kuala Lumpur,75182
+2007,Female,W.P. Labuan,4083
+2007,Female,W.P. Putrajaya,2788
+2008,Male,Malaysia,1621693
+2008,Male,Johor,199616
+2008,Male,Kedah,125223
+2008,Male,Kelantan,115966
+2008,Male,Melaka,48919
+2008,Male,Negeri Sembilan,61139
+2008,Male,Pahang,91039
+2008,Male,Perak,141891
+2008,Male,Perlis,14839
+2008,Male,Pulau Pinang,81453
+2008,Male,Sabah ,150481
+2008,Male,Sarawak,151696
+2008,Male,Selangor,278891
+2008,Male,Terengganu,75769
+2008,Male,W.P. Kuala Lumpur,77183
+2008,Male,W.P. Labuan,4246
+2008,Male,W.P. Putrajaya,3342
+2008,Female,Malaysia,1532397
+2008,Female,Johor,187672
+2008,Female,Kedah,118978
+2008,Female,Kelantan,110073
+2008,Female,Melaka,45724
+2008,Female,Negeri Sembilan,58390
+2008,Female,Pahang,86281
+2008,Female,Perak,134354
+2008,Female,Perlis,14034
+2008,Female,Pulau Pinang,78090
+2008,Female,Sabah ,140984
+2008,Female,Sarawak,142235
+2008,Female,Selangor,262274
+2008,Female,Terengganu,72478
+2008,Female,W.P. Kuala Lumpur,73589
+2008,Female,W.P. Labuan,4081
+2008,Female,W.P. Putrajaya,3160
+2009,Male,Malaysia,1601834
+2009,Male,Johor,196638
+2009,Male,Kedah,123011
+2009,Male,Kelantan,113604
+2009,Male,Melaka,48032
+2009,Male,Negeri Sembilan,60172
+2009,Male,Pahang,89714
+2009,Male,Perak,137798
+2009,Male,Perlis,14343
+2009,Male,Pulau Pinang,80001
+2009,Male,Sabah ,151147
+2009,Male,Sarawak,150583
+2009,Male,Selangor,279312
+2009,Male,Terengganu,74715
+2009,Male,W.P. Kuala Lumpur,74731
+2009,Male,W.P. Labuan,4276
+2009,Male,W.P. Putrajaya,3757
+2009,Female,Malaysia,1511940
+2009,Female,Johor,184722
+2009,Female,Kedah,116390
+2009,Female,Kelantan,107815
+2009,Female,Melaka,44893
+2009,Female,Negeri Sembilan,57042
+2009,Female,Pahang,84701
+2009,Female,Perak,130793
+2009,Female,Perlis,13723
+2009,Female,Pulau Pinang,76682
+2009,Female,Sabah ,141919
+2009,Female,Sarawak,140829
+2009,Female,Selangor,262416
+2009,Female,Terengganu,70934
+2009,Female,W.P. Kuala Lumpur,71378
+2009,Female,W.P. Labuan,4066
+2009,Female,W.P. Putrajaya,3637
+2010,Male,Malaysia,1575704
+2010,Male,Johor,192748
+2010,Male,Kedah,119321
+2010,Male,Kelantan,110654
+2010,Male,Melaka,47181
+2010,Male,Negeri Sembilan,59112
+2010,Male,Pahang,88075
+2010,Male,Perak,132895
+2010,Male,Perlis,13979
+2010,Male,Pulau Pinang,78169
+2010,Male,Sabah ,151337
+2010,Male,Sarawak,149048
+2010,Male,Selangor,278506
+2010,Male,Terengganu,73319
+2010,Male,W.P. Kuala Lumpur,72845
+2010,Male,W.P. Labuan,4325
+2010,Male,W.P. Putrajaya,4190
+2010,Female,Malaysia,1487270
+2010,Female,Johor,181184
+2010,Female,Kedah,113117
+2010,Female,Kelantan,104889
+2010,Female,Melaka,44163
+2010,Female,Negeri Sembilan,56059
+2010,Female,Pahang,83125
+2010,Female,Perak,126431
+2010,Female,Perlis,13402
+2010,Female,Pulau Pinang,74986
+2010,Female,Sabah ,142042
+2010,Female,Sarawak,139108
+2010,Female,Selangor,261755
+2010,Female,Terengganu,69495
+2010,Female,W.P. Kuala Lumpur,69388
+2010,Female,W.P. Labuan,4062
+2010,Female,W.P. Putrajaya,4064
+2011,Male,Malaysia,1562441
+2011,Male,Johor,190517
+2011,Male,Kedah,116158
+2011,Male,Kelantan,108017
+2011,Male,Melaka,46791
+2011,Male,Negeri Sembilan,58352
+2011,Male,Pahang,87766
+2011,Male,Perak,128984
+2011,Male,Perlis,13844
+2011,Male,Pulau Pinang,77406
+2011,Male,Sabah ,151890
+2011,Male,Sarawak,149550
+2011,Male,Selangor,280100
+2011,Male,Terengganu,72106
+2011,Male,W.P. Kuala Lumpur,71844
+2011,Male,W.P. Labuan,4386
+2011,Male,W.P. Putrajaya,4730
+2011,Female,Malaysia,1476521
+2011,Female,Johor,179271
+2011,Female,Kedah,110674
+2011,Female,Kelantan,103135
+2011,Female,Melaka,43731
+2011,Female,Negeri Sembilan,55078
+2011,Female,Pahang,82612
+2011,Female,Perak,122892
+2011,Female,Perlis,13173
+2011,Female,Pulau Pinang,74030
+2011,Female,Sabah ,142848
+2011,Female,Sarawak,139765
+2011,Female,Selangor,263927
+2011,Female,Terengganu,68381
+2011,Female,W.P. Kuala Lumpur,68439
+2011,Female,W.P. Labuan,4091
+2011,Female,W.P. Putrajaya,4474
+2012,Male,Malaysia,1530141
+2012,Male,Johor,187354
+2012,Male,Kedah,112693
+2012,Male,Kelantan,105412
+2012,Male,Melaka,45849
+2012,Male,Negeri Sembilan,57577
+2012,Male,Pahang,87049
+2012,Male,Perak,124790
+2012,Male,Perlis,13566
+2012,Male,Pulau Pinang,76230
+2012,Male,Sabah ,151666
+2012,Male,Sarawak,147884
+2012,Male,Selangor,279490
+2012,Male,Terengganu,70611
+2012,Male,W.P. Kuala Lumpur,60576
+2012,Male,W.P. Labuan,4317
+2012,Male,W.P. Putrajaya,5077
+2012,Female,Malaysia,1459311
+2012,Female,Johor,176703
+2012,Female,Kedah,107683
+2012,Female,Kelantan,101163
+2012,Female,Melaka,43408
+2012,Female,Negeri Sembilan,54682
+2012,Female,Pahang,82043
+2012,Female,Perak,119215
+2012,Female,Perlis,12954
+2012,Female,Pulau Pinang,72567
+2012,Female,Sabah ,143036
+2012,Female,Sarawak,138462
+2012,Female,Selangor,263455
+2012,Female,Terengganu,67458
+2012,Female,W.P. Kuala Lumpur,67513
+2012,Female,W.P. Labuan,4081
+2012,Female,W.P. Putrajaya,4888
+2013,Male,Malaysia,1508220
+2013,Male,Johor,183482
+2013,Male,Kedah,109090
+2013,Male,Kelantan,101971
+2013,Male,Melaka,44717
+2013,Male,Negeri Sembilan,56483
+2013,Male,Pahang,84969
+2013,Male,Perak,119926
+2013,Male,Perlis,13300
+2013,Male,Pulau Pinang,74037
+2013,Male,Sabah ,150908
+2013,Male,Sarawak,145000
+2013,Male,Selangor,276301
+2013,Male,Terengganu,69417
+2013,Male,W.P. Kuala Lumpur,68648
+2013,Male,W.P. Labuan,4424
+2013,Male,W.P. Putrajaya,5547
+2013,Female,Malaysia,1426941
+2013,Female,Johor,173033
+2013,Female,Kedah,104051
+2013,Female,Kelantan,97701
+2013,Female,Melaka,42393
+2013,Female,Negeri Sembilan,53323
+2013,Female,Pahang,80349
+2013,Female,Perak,114041
+2013,Female,Perlis,12742
+2013,Female,Pulau Pinang,70265
+2013,Female,Sabah ,142020
+2013,Female,Sarawak,135598
+2013,Female,Selangor,260157
+2013,Female,Terengganu,65932
+2013,Female,W.P. Kuala Lumpur,65889
+2013,Female,W.P. Labuan,4152
+2013,Female,W.P. Putrajaya,5295
+2020,Male,Malaysia,1406511
+2020,Male,Johor,170166
+2020,Male,Kedah,96275
+2020,Male,Kelantan,87073
+2020,Male,Melaka,43080
+2020,Male,Negeri Sembilan,53946
+2020,Male,Pahang,75751
+2020,Male,Pulau Pinang,66946
+2020,Male,Perak,103170
+2020,Male,Perlis,12267
+2020,Male,Selangor ,274429
+2020,Male,Terengganu,66654
+2020,Male,Sabah ,149491
+2020,Male,Sarawak,125314
+2020,Male,W.P. Kuala Lumpur,66743
+2020,Male,W.P. Labuan,4989
+2020,Male,W.P. Putrajaya,10217
+2020,Female,Malaysia,1335484
+2020,Female,Johor,161024
+2020,Female,Kedah,92895
+2020,Female,Kelantan,83601
+2020,Female,Melaka,41094
+2020,Female,Negeri Sembilan,51250
+2020,Female,Pahang,72013
+2020,Female,Pulau Pinang,63767
+2020,Female,Perak,97444
+2020,Female,Perlis,11462
+2020,Female,Selangor ,261057
+2020,Female,Terengganu,63554
+2020,Female,Sabah ,140037
+2020,Female,Sarawak,116944
+2020,Female,W.P. Kuala Lumpur,64722
+2020,Female,W.P. Labuan,4714
+2020,Female,W.P. Putrajaya,9906
+2021,Male,Malaysia,1419336
+2021,Male,Johor,170636
+2021,Male,Kedah,96543
+2021,Male,Kelantan,87567
+2021,Male,Melaka,43955
+2021,Male,Negeri Sembilan,55378
+2021,Male,Pahang,77120
+2021,Male,Pulau Pinang,66687
+2021,Male,Perak,103371
+2021,Male,Perlis,12483
+2021,Male,Selangor ,279424
+2021,Male,Terengganu,67917
+2021,Male,Sabah ,150804
+2021,Male,Sarawak,123695
+2021,Male,W.P. Kuala Lumpur,67672
+2021,Male,W.P. Labuan,5100
+2021,Male,W.P. Putrajaya,10984
+2021,Female,Malaysia,1346898
+2021,Female,Johor,161241
+2021,Female,Kedah,92702
+2021,Female,Kelantan,83996
+2021,Female,Melaka,41478
+2021,Female,Negeri Sembilan,52223
+2021,Female,Pahang,73551
+2021,Female,Pulau Pinang,63760
+2021,Female,Perak,97663
+2021,Female,Perlis,11692
+2021,Female,Selangor ,265662
+2021,Female,Terengganu,64922
+2021,Female,Sabah ,141384
+2021,Female,Sarawak,115678
+2021,Female,W.P. Kuala Lumpur,65576
+2021,Female,W.P. Labuan,4764
+2021,Female,W.P. Putrajaya,10606
