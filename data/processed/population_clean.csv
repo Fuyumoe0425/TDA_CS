@@ -1,0 +1,321 @@
+﻿state,year,sex,population
+Selangor,2000,Male,8571.8
+Selangor,2000,Female,8183.3
+Selangor,2001,Male,8852.6
+Selangor,2001,Female,8416.7
+Selangor,2002,Male,9132.4
+Selangor,2002,Female,8652.0
+Selangor,2003,Male,9416.8
+Selangor,2003,Female,8892.3
+Selangor,2004,Male,9705.4
+Selangor,2004,Female,9145.8
+Selangor,2005,Male,10000.4
+Selangor,2005,Female,9398.1
+Selangor,2006,Male,10295.8
+Selangor,2006,Female,9649.0
+Selangor,2007,Male,10598.3
+Selangor,2007,Female,9910.0
+Selangor,2008,Male,10900.0
+Selangor,2008,Female,10173.8
+Selangor,2009,Male,11218.6
+Selangor,2009,Female,10452.9
+Selangor,2010,Male,11418.3
+Selangor,2010,Female,10591.1
+Selangor,2011,Male,11628.1
+Selangor,2011,Female,10773.5
+Selangor,2012,Male,11836.6
+Selangor,2012,Female,10973.4
+Selangor,2013,Male,12288.9
+Selangor,2013,Female,11330.0
+Selangor,2014,Male,12590.0
+Selangor,2014,Female,11614.6
+Selangor,2015,Male,12849.7
+Selangor,2015,Female,11861.9
+Selangor,2016,Male,13086.1
+Selangor,2016,Female,12079.5
+Selangor,2017,Male,13265.5
+Selangor,2017,Female,12258.2
+Selangor,2018,Male,13459.6
+Selangor,2018,Female,12440.5
+Selangor,2019,Male,13500.5
+Selangor,2019,Female,12524.5
+Johor,2000,Male,5720.0
+Johor,2000,Female,5329.8
+Johor,2001,Male,5873.8
+Johor,2001,Female,5445.9
+Johor,2002,Male,6019.9
+Johor,2002,Female,5554.2
+Johor,2003,Male,6159.3
+Johor,2003,Female,5656.7
+Johor,2004,Male,6297.0
+Johor,2004,Female,5761.2
+Johor,2005,Male,6434.0
+Johor,2005,Female,5863.2
+Johor,2006,Male,6571.6
+Johor,2006,Female,5965.9
+Johor,2007,Male,6707.0
+Johor,2007,Female,6066.3
+Johor,2008,Male,6842.1
+Johor,2008,Female,6167.6
+Johor,2009,Male,6973.6
+Johor,2009,Female,6264.0
+Johor,2010,Male,7098.3
+Johor,2010,Female,6354.0
+Johor,2011,Male,7197.9
+Johor,2011,Female,6444.5
+Johor,2012,Male,7286.5
+Johor,2012,Female,6515.0
+Johor,2013,Male,7321.2
+Johor,2013,Female,6577.0
+Johor,2014,Male,7533.5
+Johor,2014,Female,6705.6
+Johor,2015,Male,7639.2
+Johor,2015,Female,6801.7
+Johor,2016,Male,7724.2
+Johor,2016,Female,6882.7
+Johor,2017,Male,7810.6
+Johor,2017,Female,6978.2
+Johor,2018,Male,7905.8
+Johor,2018,Female,7091.2
+Johor,2019,Male,7898.8
+Johor,2019,Female,7146.7
+Penang,2000,Male,0.0
+Penang,2000,Female,0.0
+Penang,2001,Male,0.0
+Penang,2001,Female,0.0
+Penang,2002,Male,0.0
+Penang,2002,Female,0.0
+Penang,2003,Male,0.0
+Penang,2003,Female,0.0
+Penang,2004,Male,0.0
+Penang,2004,Female,0.0
+Penang,2005,Male,0.0
+Penang,2005,Female,0.0
+Penang,2006,Male,0.0
+Penang,2006,Female,0.0
+Penang,2007,Male,0.0
+Penang,2007,Female,0.0
+Penang,2008,Male,0.0
+Penang,2008,Female,0.0
+Penang,2009,Male,0.0
+Penang,2009,Female,0.0
+Penang,2010,Male,0.0
+Penang,2010,Female,0.0
+Penang,2011,Male,0.0
+Penang,2011,Female,0.0
+Penang,2012,Male,0.0
+Penang,2012,Female,0.0
+Penang,2013,Male,0.0
+Penang,2013,Female,0.0
+Penang,2014,Male,0.0
+Penang,2014,Female,0.0
+Penang,2015,Male,0.0
+Penang,2015,Female,0.0
+Penang,2016,Male,0.0
+Penang,2016,Female,0.0
+Penang,2017,Male,0.0
+Penang,2017,Female,0.0
+Penang,2018,Male,0.0
+Penang,2018,Female,0.0
+Penang,2019,Male,0.0
+Penang,2019,Female,0.0
+Perak,2000,Male,4201.5
+Perak,2000,Female,4165.0
+Perak,2001,Male,4282.099999999999
+Perak,2001,Female,4233.6
+Perak,2002,Male,4352.7
+Perak,2002,Female,4294.4
+Perak,2003,Male,4418.2
+Perak,2003,Female,4350.6
+Perak,2004,Male,4480.8
+Perak,2004,Female,4406.6
+Perak,2005,Male,4542.9
+Perak,2005,Female,4461.0
+Perak,2006,Male,4603.1
+Perak,2006,Female,4513.6
+Perak,2007,Male,4661.0
+Perak,2007,Female,4564.0
+Perak,2008,Male,4715.5
+Perak,2008,Female,4611.2
+Perak,2009,Male,4767.2
+Perak,2009,Female,4655.4
+Perak,2010,Male,4817.8
+Perak,2010,Female,4697.8
+Perak,2011,Male,4865.2
+Perak,2011,Female,4745.5
+Perak,2012,Male,4915.4
+Perak,2012,Female,4792.8
+Perak,2013,Male,4958.6
+Perak,2013,Female,4830.5
+Perak,2014,Male,4981.0
+Perak,2014,Female,4854.4
+Perak,2015,Male,4997.3
+Perak,2015,Female,4870.2
+Perak,2016,Male,5028.0
+Perak,2016,Female,4901.1
+Perak,2017,Male,5051.6
+Perak,2017,Female,4920.4
+Perak,2018,Male,5067.3
+Perak,2018,Female,4946.7
+Perak,2019,Male,5072.7
+Perak,2019,Female,4961.9
+Kelantan,2000,Male,2719.7
+Kelantan,2000,Female,2725.7
+Kelantan,2001,Male,2778.7
+Kelantan,2001,Female,2780.2
+Kelantan,2002,Male,2834.3
+Kelantan,2002,Female,2831.9
+Kelantan,2003,Male,2883.6
+Kelantan,2003,Female,2877.5
+Kelantan,2004,Male,2931.1
+Kelantan,2004,Female,2923.3
+Kelantan,2005,Male,2977.8
+Kelantan,2005,Female,2966.9
+Kelantan,2006,Male,3022.0
+Kelantan,2006,Female,3007.3
+Kelantan,2007,Male,3067.7
+Kelantan,2007,Female,3048.6
+Kelantan,2008,Male,3111.5
+Kelantan,2008,Female,3087.8
+Kelantan,2009,Male,3153.1
+Kelantan,2009,Female,3126.2000000000003
+Kelantan,2010,Male,3194.7
+Kelantan,2010,Female,3165.3
+Kelantan,2011,Male,3253.5
+Kelantan,2011,Female,3221.9
+Kelantan,2012,Male,3317.8
+Kelantan,2012,Female,3285.3
+Kelantan,2013,Male,3387.7
+Kelantan,2013,Female,3346.8
+Kelantan,2014,Male,3474.4
+Kelantan,2014,Female,3419.3
+Kelantan,2015,Male,3550.5
+Kelantan,2015,Female,3491.5
+Kelantan,2016,Male,3626.5
+Kelantan,2016,Female,3560.3
+Kelantan,2017,Male,3693.0
+Kelantan,2017,Female,3623.7
+Kelantan,2018,Male,3759.8
+Kelantan,2018,Female,3682.5
+Kelantan,2019,Male,3807.8
+Kelantan,2019,Female,3726.9
+Sabah,2000,Male,5382.4
+Sabah,2000,Female,5032.0
+Sabah,2001,Male,5513.1
+Sabah,2001,Female,5140.7
+Sabah,2002,Male,5635.2
+Sabah,2002,Female,5242.1
+Sabah,2003,Male,5754.2
+Sabah,2003,Female,5341.4
+Sabah,2004,Male,5882.599999999999
+Sabah,2004,Female,5451.2
+Sabah,2005,Male,6020.4
+Sabah,2005,Female,5567.4
+Sabah,2006,Male,6162.2
+Sabah,2006,Female,5690.0
+Sabah,2007,Male,6312.3
+Sabah,2007,Female,5817.900000000001
+Sabah,2008,Male,6466.400000000001
+Sabah,2008,Female,5953.2
+Sabah,2009,Male,6630.0
+Sabah,2009,Female,6095.4
+Sabah,2010,Male,6795.6
+Sabah,2010,Female,6244.3
+Sabah,2011,Male,6983.8
+Sabah,2011,Female,6398.5
+Sabah,2012,Male,7165.0
+Sabah,2012,Female,6565.6
+Sabah,2013,Male,7556.1
+Sabah,2013,Female,6890.6
+Sabah,2014,Male,7687.7
+Sabah,2014,Female,6991.6
+Sabah,2015,Male,7768.5
+Sabah,2015,Female,7113.2
+Sabah,2016,Male,7946.099999999999
+Sabah,2016,Female,7265.2
+Sabah,2017,Male,8055.9
+Sabah,2017,Female,7368.5
+Sabah,2018,Male,8142.599999999999
+Sabah,2018,Female,7451.5
+Sabah,2019,Male,8148.8
+Sabah,2019,Female,7468.1
+Sarawak,2000,Male,4212.0
+Sarawak,2000,Female,4073.8
+Sarawak,2001,Male,4312.9
+Sarawak,2001,Female,4148.9
+Sarawak,2002,Male,4410.8
+Sarawak,2002,Female,4221.8
+Sarawak,2003,Male,4504.3
+Sarawak,2003,Female,4291.6
+Sarawak,2004,Male,4597.0
+Sarawak,2004,Female,4364.3
+Sarawak,2005,Male,4691.8
+Sarawak,2005,Female,4437.3
+Sarawak,2006,Male,4786.8
+Sarawak,2006,Female,4512.0
+Sarawak,2007,Male,4880.8
+Sarawak,2007,Female,4583.400000000001
+Sarawak,2008,Male,4975.7
+Sarawak,2008,Female,4657.7
+Sarawak,2009,Male,5069.4
+Sarawak,2009,Female,4734.3
+Sarawak,2010,Male,5151.1
+Sarawak,2010,Female,4796.8
+Sarawak,2011,Male,5234.8
+Sarawak,2011,Female,4876.7
+Sarawak,2012,Male,5324.3
+Sarawak,2012,Female,4954.4
+Sarawak,2013,Male,5511.0
+Sarawak,2013,Female,5058.099999999999
+Sarawak,2014,Male,5547.1
+Sarawak,2014,Female,5108.4
+Sarawak,2015,Male,5629.0
+Sarawak,2015,Female,5176.1
+Sarawak,2016,Male,5711.6
+Sarawak,2016,Female,5242.5
+Sarawak,2017,Male,5769.8
+Sarawak,2017,Female,5296.2
+Sarawak,2018,Male,5819.7
+Sarawak,2018,Female,5346.6
+Sarawak,2019,Male,5841.4
+Sarawak,2019,Female,5382.1
+Kuala Lumpur,2000,Male,2880.9
+Kuala Lumpur,2000,Female,2782.7
+Kuala Lumpur,2001,Male,2943.3
+Kuala Lumpur,2001,Female,2840.3
+Kuala Lumpur,2002,Male,3001.9
+Kuala Lumpur,2002,Female,2894.1
+Kuala Lumpur,2003,Male,3057.9
+Kuala Lumpur,2003,Female,2943.7
+Kuala Lumpur,2004,Male,3112.3
+Kuala Lumpur,2004,Female,2993.1
+Kuala Lumpur,2005,Male,3165.9
+Kuala Lumpur,2005,Female,3040.6
+Kuala Lumpur,2006,Male,3221.0
+Kuala Lumpur,2006,Female,3088.5
+Kuala Lumpur,2007,Male,3275.6
+Kuala Lumpur,2007,Female,3137.5
+Kuala Lumpur,2008,Male,3329.2
+Kuala Lumpur,2008,Female,3185.7
+Kuala Lumpur,2009,Male,3379.8
+Kuala Lumpur,2009,Female,3231.2
+Kuala Lumpur,2010,Male,3423.7
+Kuala Lumpur,2010,Female,3275.1
+Kuala Lumpur,2011,Male,3459.5
+Kuala Lumpur,2011,Female,3312.2
+Kuala Lumpur,2012,Male,3471.9
+Kuala Lumpur,2012,Female,3336.9
+Kuala Lumpur,2013,Male,3520.0
+Kuala Lumpur,2013,Female,3373.3
+Kuala Lumpur,2014,Male,3537.0
+Kuala Lumpur,2014,Female,3412.6
+Kuala Lumpur,2015,Male,3652.1
+Kuala Lumpur,2015,Female,3469.1
+Kuala Lumpur,2016,Male,3673.5
+Kuala Lumpur,2016,Female,3485.7999999999997
+Kuala Lumpur,2017,Male,3677.7
+Kuala Lumpur,2017,Female,3495.5
+Kuala Lumpur,2018,Male,3677.9
+Kuala Lumpur,2018,Female,3483.1
+Kuala Lumpur,2019,Male,3660.5
+Kuala Lumpur,2019,Female,3469.4
